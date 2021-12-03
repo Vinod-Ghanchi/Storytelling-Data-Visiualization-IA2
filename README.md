@@ -1,7 +1,8 @@
 #K.J. Somaiya College of Engineering
+
 Vinod Ghanchi HDV-1 16010120016
 Sidharth Nair HDV-1 16010120032
-# Storytelling-Data-Visiualization-IA2
+## Storytelling-Data-Visiualization-IA2
 Tableau - Covid cases and vaccination status in India
 This Repository contains the statistical analysis of covid 19 and vaccination status of India till 2021. This was done for the course work of Tableau during my 2nd year of engineering. I've attached all the screenshots below regarding the visualization .
 ![1st slide](https://user-images.githubusercontent.com/80514865/144592974-055cfa43-8ce8-490b-a01f-0d9d3e4b9881.jpg)
@@ -15,7 +16,7 @@ This Repository contains the statistical analysis of covid 19 and vaccination st
 ![9th slide](https://user-images.githubusercontent.com/80514865/144593036-bda34820-057a-4751-9c98-a052f8111a83.jpg)
 ![10th slide](https://user-images.githubusercontent.com/80514865/144593048-82e107aa-4c6e-4668-892f-c780f552dabf.jpg)
 
-## Contributors
+### Contributors
 
   - Vinod Ghanchi
   - Sidharth Nair
