@@ -1,4 +1,4 @@
-K.J. Somaiya College of Engineering
+#K.J. Somaiya College of Engineering
 Vinod Ghanchi HDV-1 16010120016
 Sidharth Nair HDV-1 16010120032
 # Storytelling-Data-Visiualization-IA2
@@ -14,3 +14,12 @@ This Repository contains the statistical analysis of covid 19 and vaccination st
 ![8th slide](https://user-images.githubusercontent.com/80514865/144593024-b00b1cfc-7e83-416f-b349-97f8471171b1.jpg)
 ![9th slide](https://user-images.githubusercontent.com/80514865/144593036-bda34820-057a-4751-9c98-a052f8111a83.jpg)
 ![10th slide](https://user-images.githubusercontent.com/80514865/144593048-82e107aa-4c6e-4668-892f-c780f552dabf.jpg)
+
+## Contributors
+
+  - Vinod Ghanchi
+  - Sidharth Nair
+
+#### Acknowledgement 
+
+We would like to thanks Prof. Vaibhav Vasani and Prof. Swapnil Pawar for the guidance and support throughout the coursework.
